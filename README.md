@@ -25,6 +25,6 @@ E-Posta: mustafaozkaya4221@gmail.com
 
 Aşağıda uygulamadan bazı ekran görüntülerini bulabilirsiniz:
 
-![Ana Sayfa](https://github.com/your-username/your-repository/screenshot1.png)
+![Ana Sayfa](https://github.com/your-username/your-repository/IMG-20241019-WA0016.jpg)
 ![Ayarlar Sayfası](https://github.com/your-username/your-repository/screenshot2.png)
 
