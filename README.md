@@ -1,4 +1,4 @@
-Ağda Sıfır Güven Modeli - Bilgisayar Ağları Projesi
+## Ağda Sıfır Güven Modeli - Bilgisayar Ağları Projesi
 Bu mobil uygulama, "Bilgisayar Ağları" dersi kapsamında Mustafa Özkaya tarafından geliştirilmiştir. Projede sıfır güven modeli üzerine bir ağ yapısı oluşturulmuştur.
 
 Proje Detayları
