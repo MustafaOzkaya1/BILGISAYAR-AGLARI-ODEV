@@ -20,3 +20,11 @@ Geliştirici: Mustafa Özkaya
 Okul Numarası: 22370031062
 
 E-Posta: mustafaozkaya4221@gmail.com 
+
+## Ekran Görüntüleri
+
+Aşağıda uygulamadan bazı ekran görüntülerini bulabilirsiniz:
+
+![Ana Sayfa](https://github.com/your-username/your-repository/screenshot1.png)
+![Ayarlar Sayfası](https://github.com/your-username/your-repository/screenshot2.png)
+
