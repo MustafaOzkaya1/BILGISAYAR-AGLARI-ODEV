@@ -1,5 +1,5 @@
 ## Ağda Sıfır Güven Modeli - Bilgisayar Ağları Projesi
-Bu mobil uygulama, "Bilgisayar Ağları" dersi kapsamında Mustafa Özkaya tarafından geliştirilmiştir. Projede sıfır güven modeli üzerine bir ağ yapısı oluşturulmuştur.
+Bu mobil uygulama, "Bilgisayar Ağları" dersi kapsamında Mustafa Özkaya tarafından geliştirilmiştir. Projede sıfır güven modeli üzerine bilgilendiricibir uygulama olarak oluşturulmuştur.
 
 Proje Detayları
 Bu uygulama, ağ güvenliğini sıfır güven modeli çerçevesinde incelemektedir. Projede, kullanıcıların farklı güvenlik önlemlerini öğrenmesi ve uygulayabilmesi amaçlanmıştır. Uygulama hem mobil cihazlarda hem de bilgisayar emülatörlerinde çalıştırılabilir.
