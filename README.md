@@ -28,5 +28,5 @@ Aşağıda uygulamadan bazı ekran görüntülerini bulabilirsiniz:
 ![Ana Sayfa](https://github.com/MustafaOzkaya1/BILGISAYAR-AGLARI-ODEV/blob/main/uygulama_resimleri/IMG-20241019-WA0017.jpg)
 ![İçerik Detay Sayfası](https://github.com/your-username/your-repository/screenshot2.png)
 ![Videolar Sayfası](https://github.com/MustafaOzkaya1/BILGISAYAR-AGLARI-ODEV/blob/main/uygulama_resimleri/IMG-20241019-WA0016.jpg)
-![Ayarlar Sayfası](https://github.com/your-username/your-repository/screenshot2.png)
+![Ayarlar Sayfası]([https://github.com/your-username/your-repository/screenshot2.png](https://github.com/MustafaOzkaya1/BILGISAYAR-AGLARI-ODEV/blob/main/uygulama_resimleri/IMG-20241019-WA0018.jpg))
 
