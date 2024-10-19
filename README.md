@@ -14,6 +14,9 @@ Android Studio
 Kurulum Adımları
 APK dosyasını cihazınıza indirip üzerine tıklayarak kurulumu tamamlayın.
 Kaynak kodu incelemek veya düzenlemek isterseniz, Android Studio'da projeyi açın ve Flutter SDK'yı kurun.
+
 Geliştirici: Mustafa Özkaya
+
 Okul Numarası: 22370031062
+
 E-Posta: mustafaozkaya4221@gmail.com 
